@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "cat": "funding",
+    "q": "How much did Revolut raise in its latest funding round?"
+  },
+  {
+    "id": 2,
+    "cat": "funding",
+    "q": "What is the current valuation of N26?"
+  },
+  {
+    "id": 3,
+    "cat": "funding",
+    "q": "Which European startups became unicorns in 2024?"
+  },
+  {
+    "id": 4,
+    "cat": "funding",
+    "q": "How much venture capital was invested in European startups in 2024?"
+  },
+  {
+    "id": 5,
+    "cat": "funding",
+    "q": "What is Klarna's valuation ahead of its IPO?"
+  },
+  {
+    "id": 6,
+    "cat": "funding",
+    "q": "How much funding has Mistral AI raised in total?"
+  },
+  {
+    "id": 7,
+    "cat": "funding",
+    "q": "Which is the most valuable fintech startup in Europe in 2024?"
+  },
+  {
+    "id": 8,
+    "cat": "funding",
+    "q": "What was the largest European tech funding round of 2024?"
+  },
+  {
+    "id": 9,
+    "cat": "financials",
+    "q": "What was SAP's total revenue in 2024?"
+  },
+  {
+    "id": 10,
+    "cat": "financials",
+    "q": "What is Spotify's annual revenue for 2024?"
+  },
+  {
+    "id": 11,
+    "cat": "financials",
+    "q": "What was LVMH's operating profit in 2024?"
+  },
+  {
+    "id": 12,
+    "cat": "financials",
+    "q": "How many premium subscribers does Spotify have in 2024?"
+  },
+  {
+    "id": 13,
+    "cat": "financials",
+    "q": "What is Adyen's net revenue for 2024?"
+  },
+  {
+    "id": 14,
+    "cat": "financials",
+    "q": "What was Volkswagen Group's revenue in 2024?"
+  },
+  {
+    "id": 15,
+    "cat": "financials",
+    "q": "What is ASML's current market capitalization?"
+  },
+  {
+    "id": 16,
+    "cat": "leadership",
+    "q": "Who is the CEO of Siemens?"
+  },
+  {
+    "id": 17,
+    "cat": "leadership",
+    "q": "Who is the CEO of Airbus?"
+  },
+  {
+    "id": 18,
+    "cat": "leadership",
+    "q": "Who founded the company Klarna?"
+  },
+  {
+    "id": 19,
+    "cat": "leadership",
+    "q": "Who is the current CEO of Deutsche Bank?"
+  },
+  {
+    "id": 20,
+    "cat": "leadership",
+    "q": "Who is the CEO of Nestle?"
+  },
+  {
+    "id": 21,
+    "cat": "m&a",
+    "q": "Which companies has SAP acquired in recent years?"
+  },
+  {
+    "id": 22,
+    "cat": "m&a",
+    "q": "What major European tech acquisitions happened in 2024?"
+  },
+  {
+    "id": 23,
+    "cat": "m&a",
+    "q": "Did Adidas sell the Reebok brand and to whom?"
+  },
+  {
+    "id": 24,
+    "cat": "market",
+    "q": "Which European countries have the most tech unicorns?"
+  },
+  {
+    "id": 25,
+    "cat": "market",
+    "q": "What is the largest bank in Europe by total assets?"
+  },
+  {
+    "id": 26,
+    "cat": "market",
+    "q": "Which is the biggest company in Germany by revenue?"
+  },
+  {
+    "id": 27,
+    "cat": "market",
+    "q": "What are the top European SaaS companies in 2024?"
+  },
+  {
+    "id": 28,
+    "cat": "market",
+    "q": "Which European city has the most startups?"
+  },
+  {
+    "id": 29,
+    "cat": "market",
+    "q": "What is the size of the European e-commerce market in 2024?"
+  },
+  {
+    "id": 30,
+    "cat": "market",
+    "q": "Which are the largest luxury goods companies in Europe?"
+  },
+  {
+    "id": 31,
+    "cat": "b2b",
+    "q": "What does the company Celonis do?"
+  },
+  {
+    "id": 32,
+    "cat": "b2b",
+    "q": "Where is the headquarters of the company Datev?"
+  },
+  {
+    "id": 33,
+    "cat": "b2b",
+    "q": "What industry does the company Personio operate in?"
+  },
+  {
+    "id": 34,
+    "cat": "b2b",
+    "q": "Who are the main competitors of SAP?"
+  },
+  {
+    "id": 35,
+    "cat": "b2b",
+    "q": "What is the pricing model of the company Pennylane?"
+  },
+  {
+    "id": 36,
+    "cat": "german",
+    "q": "Welche deutschen Unternehmen sind im DAX 40 gelistet?"
+  },
+  {
+    "id": 37,
+    "cat": "german",
+    "q": "Wer ist der CEO von Volkswagen?"
+  },
+  {
+    "id": 38,
+    "cat": "german",
+    "q": "Wie hoch war der Umsatz von SAP im Jahr 2024?"
+  },
+  {
+    "id": 39,
+    "cat": "german",
+    "q": "Welche deutschen Startups wurden 2024 zu Unicorns?"
+  },
+  {
+    "id": 40,
+    "cat": "german",
+    "q": "Was ist das wertvollste Unternehmen Deutschlands?"
+  },
+  {
+    "id": 41,
+    "cat": "german",
+    "q": "Wie viele Mitarbeiter hat Siemens weltweit?"
+  },
+  {
+    "id": 42,
+    "cat": "german",
+    "q": "Welche Bank ist die groesste in Deutschland?"
+  },
+  {
+    "id": 43,
+    "cat": "german",
+    "q": "Wer hat das Unternehmen Personio gegruendet?"
+  },
+  {
+    "id": 44,
+    "cat": "german",
+    "q": "Was macht das Unternehmen Celonis?"
+  },
+  {
+    "id": 45,
+    "cat": "german",
+    "q": "Wie hoch ist die Inflationsrate in Deutschland 2025?"
+  },
+  {
+    "id": 46,
+    "cat": "german",
+    "q": "Welche deutschen Staedte haben die meisten Startups?"
+  },
+  {
+    "id": 47,
+    "cat": "german",
+    "q": "Wo ist der Hauptsitz von BioNTech?"
+  },
+  {
+    "id": 48,
+    "cat": "german",
+    "q": "Wie viel Wagniskapital wurde 2024 in deutsche Startups investiert?"
+  },
+  {
+    "id": 49,
+    "cat": "german",
+    "q": "Welche Automobilhersteller haben ihren Sitz in Deutschland?"
+  },
+  {
+    "id": 50,
+    "cat": "german",
+    "q": "Wer ist der reichste Mensch in Deutschland?"
+  }
+]

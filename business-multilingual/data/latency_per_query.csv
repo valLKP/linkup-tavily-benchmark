@@ -1,0 +1,51 @@
+id,category,question,tavily_latency_s,linkup_latency_s,faster
+1,funding,How much did Revolut raise in its latest funding round?,3.758,2.015,linkup
+2,funding,What is the current valuation of N26?,5.438,2.37,linkup
+3,funding,Which European startups became unicorns in 2024?,5.488,2.473,linkup
+4,funding,How much venture capital was invested in European startups in 2024?,5.538,2.613,linkup
+5,funding,What is Klarna's valuation ahead of its IPO?,2.674,2.486,linkup
+6,funding,How much funding has Mistral AI raised in total?,5.627,2.364,linkup
+7,funding,Which is the most valuable fintech startup in Europe in 2024?,4.262,1.787,linkup
+8,funding,What was the largest European tech funding round of 2024?,3.686,2.188,linkup
+9,financials,What was SAP's total revenue in 2024?,2.958,1.843,linkup
+10,financials,What is Spotify's annual revenue for 2024?,4.91,2.15,linkup
+11,financials,What was LVMH's operating profit in 2024?,2.413,2.081,linkup
+12,financials,How many premium subscribers does Spotify have in 2024?,3.365,1.769,linkup
+13,financials,What is Adyen's net revenue for 2024?,4.079,1.763,linkup
+14,financials,What was Volkswagen Group's revenue in 2024?,5.005,1.899,linkup
+15,financials,What is ASML's current market capitalization?,2.431,1.733,linkup
+16,leadership,Who is the CEO of Siemens?,4.536,1.574,linkup
+17,leadership,Who is the CEO of Airbus?,3.258,1.808,linkup
+18,leadership,Who founded the company Klarna?,3.599,1.873,linkup
+19,leadership,Who is the current CEO of Deutsche Bank?,3.898,1.804,linkup
+20,leadership,Who is the CEO of Nestle?,2.778,1.601,linkup
+21,m&a,Which companies has SAP acquired in recent years?,4.462,1.857,linkup
+22,m&a,What major European tech acquisitions happened in 2024?,5.316,2.062,linkup
+23,m&a,Did Adidas sell the Reebok brand and to whom?,4.999,1.611,linkup
+24,market,Which European countries have the most tech unicorns?,4.562,2.197,linkup
+25,market,What is the largest bank in Europe by total assets?,5.773,1.67,linkup
+26,market,Which is the biggest company in Germany by revenue?,3.829,1.827,linkup
+27,market,What are the top European SaaS companies in 2024?,5.214,1.65,linkup
+28,market,Which European city has the most startups?,2.708,1.773,linkup
+29,market,What is the size of the European e-commerce market in 2024?,3.648,1.725,linkup
+30,market,Which are the largest luxury goods companies in Europe?,3.728,1.88,linkup
+31,b2b,What does the company Celonis do?,3.409,1.344,linkup
+32,b2b,Where is the headquarters of the company Datev?,4.436,1.661,linkup
+33,b2b,What industry does the company Personio operate in?,2.75,1.51,linkup
+34,b2b,Who are the main competitors of SAP?,2.819,1.819,linkup
+35,b2b,What is the pricing model of the company Pennylane?,2.506,1.868,linkup
+36,german,Welche deutschen Unternehmen sind im DAX 40 gelistet?,3.047,1.698,linkup
+37,german,Wer ist der CEO von Volkswagen?,4.377,1.634,linkup
+38,german,Wie hoch war der Umsatz von SAP im Jahr 2024?,2.348,1.643,linkup
+39,german,Welche deutschen Startups wurden 2024 zu Unicorns?,4.036,1.825,linkup
+40,german,Was ist das wertvollste Unternehmen Deutschlands?,5.023,1.747,linkup
+41,german,Wie viele Mitarbeiter hat Siemens weltweit?,5.071,1.731,linkup
+42,german,Welche Bank ist die groesste in Deutschland?,4.57,1.83,linkup
+43,german,Wer hat das Unternehmen Personio gegruendet?,4.692,2.426,linkup
+44,german,Was macht das Unternehmen Celonis?,4.145,1.669,linkup
+45,german,Wie hoch ist die Inflationsrate in Deutschland 2025?,5.104,1.614,linkup
+46,german,Welche deutschen Staedte haben die meisten Startups?,4.491,2.023,linkup
+47,german,Wo ist der Hauptsitz von BioNTech?,3.473,2.183,linkup
+48,german,Wie viel Wagniskapital wurde 2024 in deutsche Startups investiert?,5.032,2.685,linkup
+49,german,Welche Automobilhersteller haben ihren Sitz in Deutschland?,4.953,2.225,linkup
+50,german,Wer ist der reichste Mensch in Deutschland?,3.336,1.607,linkup

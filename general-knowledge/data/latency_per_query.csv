@@ -1,0 +1,101 @@
+id,category,question,tavily_latency_s,linkup_latency_s,faster
+1,history,In which year did World War I begin?,4.922,2.319,linkup
+2,history,Who was the last Tsar of Russia?,4.827,1.781,linkup
+3,history,Which queen ruled England during the Spanish Armada of 1588?,3.842,1.438,linkup
+4,history,In which year was the Magna Carta signed?,4.088,1.084,linkup
+5,history,Who became the first Chancellor of unified Germany in 1871?,2.921,2.493,linkup
+6,history,Which empire was ruled from Constantinople?,4.117,1.962,linkup
+7,history,In which year did the Bolshevik Revolution take place?,5.575,1.768,linkup
+8,history,Which French leader was crowned emperor in 1804?,4.207,1.756,linkup
+9,history,Which war ended with the Treaty of Westphalia in 1648?,2.357,1.081,linkup
+10,history,In which year did Portugal's Carnation Revolution occur?,3.981,0.963,linkup
+11,history,Which ancient monument on Salisbury Plain is made of standing stones?,5.731,1.287,linkup
+12,history,Who was the British Prime Minister during most of World War II?,2.83,2.118,linkup
+13,history,In which year did Greece gain independence from the Ottoman Empire?,2.529,1.73,linkup
+14,history,Which plague devastated Europe in the 14th century?,6.152,1.784,linkup
+15,history,Who was the Frankish leader who won the Battle of Tours in 732?,4.071,1.133,linkup
+16,art,Who wrote the play Hamlet?,3.239,1.486,linkup
+17,art,Who painted the Mona Lisa?,3.236,0.929,linkup
+18,art,Which Russian author wrote War and Peace?,4.225,1.652,linkup
+19,art,Who composed the opera The Marriage of Figaro?,3.889,0.726,linkup
+20,art,In which museum is the Venus de Milo displayed?,3.478,0.948,linkup
+21,art,Which Italian poet wrote the Divine Comedy?,5.171,1.466,linkup
+22,art,Who painted Guernica?,2.504,1.53,linkup
+23,art,Which German author wrote Faust?,5.234,1.652,linkup
+24,art,Who wrote the novel Pride and Prejudice?,4.306,0.989,linkup
+25,art,Which French Impressionist painted the Water Lilies series?,2.29,1.717,linkup
+26,art,Which Austrian composer wrote the Blue Danube waltz?,4.196,1.059,linkup
+27,art,Who wrote the novel Les Miserables?,3.421,1.515,linkup
+28,art,Which Dutch painter created The Garden of Earthly Delights?,3.444,0.857,linkup
+29,geo,What is the capital of Portugal?,4.598,1.437,linkup
+30,geo,What is the largest country entirely within Europe by area?,2.567,1.962,linkup
+31,geo,Into which sea does the Danube river flow?,4.542,1.75,linkup
+32,geo,Which mountain is the highest peak in Western Europe?,4.067,1.66,linkup
+33,geo,What is the capital of Finland?,3.135,2.085,linkup
+34,geo,Which European island country has the most active volcanoes?,3.955,1.55,linkup
+35,geo,What is the largest lake in Italy?,4.136,2.048,linkup
+36,geo,Which sea lies between Italy and the Balkan peninsula?,4.455,1.073,linkup
+37,geo,What is the northernmost capital city in Europe?,2.315,1.744,linkup
+38,geo,What is the capital of Croatia?,4.061,1.547,linkup
+39,geo,Which river runs through the centre of Paris?,4.315,1.843,linkup
+40,geo,What is the smallest independent state in the world by area?,3.952,1.844,linkup
+41,geo,Which two European countries are connected by the Oresund Bridge?,3.943,1.534,linkup
+42,science,Who invented the World Wide Web?,4.547,0.958,linkup
+43,science,Which Italian physicist built the first nuclear reactor?,3.218,1.517,linkup
+44,science,Which German astronomer formulated the laws of planetary motion?,4.588,1.69,linkup
+45,science,Which British naturalist wrote On the Origin of Species?,3.614,1.924,linkup
+46,science,Who discovered penicillin?,3.894,1.57,linkup
+47,science,Which German physicist introduced quantum theory?,4.445,1.406,linkup
+48,science,Who invented the movable-type printing press in Europe?,2.266,1.588,linkup
+49,science,Which Danish physicist developed an early model of the atom?,5.565,2.422,linkup
+50,science,Which Austrian monk is considered the father of genetics?,5.533,1.629,linkup
+51,science,Which Serbian-American engineer pioneered alternating current?,3.142,1.792,linkup
+52,food,Which Belgian fried food is often served with mayonnaise?,4.343,1.566,linkup
+53,food,Which Italian region is the origin of Parmigiano-Reggiano cheese?,4.656,1.558,linkup
+54,food,What is the main ingredient of the Spanish cold soup gazpacho?,3.133,0.894,linkup
+55,food,Which Portuguese custard pastry is known as pastel de nata?,3.625,1.034,linkup
+56,food,Which Scottish dish is made from sheep offal and oatmeal?,4.318,1.502,linkup
+57,food,In which German city is the original Oktoberfest held?,5.561,1.639,linkup
+58,food,Which French cheese is named after a village in Normandy?,4.663,1.704,linkup
+59,food,Which sparkling wine can only be produced in a specific French region?,4.745,2.025,linkup
+60,music,Which Swedish pop group won Eurovision in 1974 with Waterloo?,4.349,1.126,linkup
+61,music,Which German composer wrote the Ninth Symphony?,3.959,1.595,linkup
+62,music,Which British band recorded the album Abbey Road?,3.105,1.588,linkup
+63,music,Which Polish composer is famous for his piano nocturnes?,3.7,1.726,linkup
+64,music,Which Irish rock band is fronted by Bono?,2.828,0.941,linkup
+65,music,Which Italian composer wrote the opera La Traviata?,4.836,1.314,linkup
+66,music,Which Russian composer wrote the ballet The Nutcracker?,4.992,1.22,linkup
+67,music,Which German Baroque composer wrote the Brandenburg Concertos?,3.178,1.427,linkup
+68,sports,In which country is the Wimbledon tennis tournament held?,2.822,1.817,linkup
+69,sports,Which annual cycling race is known as the Grande Boucle?,4.376,1.404,linkup
+70,sports,Which German Formula 1 driver won seven world championships?,3.07,1.756,linkup
+71,sports,In which city is the Santiago Bernabeu stadium located?,2.239,0.822,linkup
+72,sports,Which team won the first European Football Championship in 1960?,3.367,1.665,linkup
+73,sports,Which sport is contested in the Six Nations Championship?,2.887,1.722,linkup
+74,sports,Which Portuguese footballer has won five Ballon d'Or awards?,4.643,2.056,linkup
+75,sports,Which Nordic country is considered the birthplace of modern skiing?,5.472,1.429,linkup
+76,cinema,Which Italian director made the film La Dolce Vita?,3.204,0.751,linkup
+77,cinema,Which film festival awards the Palme d'Or?,2.702,1.931,linkup
+78,cinema,Which Swedish director made the film The Seventh Seal?,3.492,0.773,linkup
+79,cinema,Which British actor played James Bond in the 1970s after Sean Connery?,3.61,1.269,linkup
+80,cinema,Which 1927 German science-fiction film was directed by Fritz Lang?,2.821,0.874,linkup
+81,cinema,Which Spanish director is known for the film Volver?,4.522,1.321,linkup
+82,eu,In which year did the euro enter circulation as physical currency?,2.716,1.574,linkup
+83,eu,In which city is the European Court of Justice located?,5.307,1.668,linkup
+84,eu,Which country was the first to leave the European Union?,3.81,1.904,linkup
+85,eu,How many stars are on the European Union flag?,3.547,0.997,linkup
+86,eu,In which Dutch city was the Maastricht Treaty signed?,2.687,1.574,linkup
+87,eu,What is the name of the group of EU countries that use the euro?,2.733,1.942,linkup
+88,eu,Which EU institution proposes new European legislation?,4.95,2.006,linkup
+89,arch,In which city is the Colosseum located?,5.696,1.7,linkup
+90,arch,Which ancient temple sits on the Acropolis of Athens?,4.808,0.795,linkup
+91,arch,In which country is Neuschwanstein Castle?,3.8,0.716,linkup
+92,arch,Which London bridge opens to let ships pass?,4.529,1.962,linkup
+93,arch,In which city is the Atomium monument?,5.318,1.628,linkup
+94,arch,Which Paris cathedral was damaged by fire in 2019?,3.454,1.777,linkup
+95,linkedin,Return the LinkedIn profile details of https://www.linkedin.com/company/booking-com,6.456,1.49,linkup
+96,linkedin,Return the last 5 LinkedIn posts of https://www.linkedin.com/company/adidas,6.183,4.385,linkup
+97,linkedin,Return the LinkedIn profile details of https://www.linkedin.com/company/klarna,3.893,1.548,linkup
+98,linkedin,Return the last 5 LinkedIn posts of https://www.linkedin.com/company/revolut,3.999,3.755,linkup
+99,linkedin,Return the LinkedIn profile details of https://www.linkedin.com/company/n26,4.434,1.602,linkup
+100,linkedin,Return the last 5 LinkedIn posts of https://www.linkedin.com/company/deezer,6.627,3.851,linkup
